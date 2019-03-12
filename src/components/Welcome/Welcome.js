@@ -5,7 +5,7 @@ import './Welcome.css';
 class Welcome extends Component{
     render(){
         return(
-            <div>
+            <div className="wrapper">
                 <h1 className="title">Hello From React</h1>
                 <img className="banner" src="assets/images/react.png"/>
             </div>
