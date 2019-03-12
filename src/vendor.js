@@ -1,1 +1,1 @@
-alert("Hello from vender");
+console.log("Vendor entry loaded");

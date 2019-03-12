@@ -1,13 +1,12 @@
 import React, {Component} from 'react';
-import './App.css'
-import '../../assets/images/react.png';
+import Welcome from '../Welcome/Welcome';
+import './App.css';
 
 class App extends Component{
     render(){
         return (
             <div>
-                <h1>Hello From React</h1>
-                <img src="assets/images/react.png" />
+                <Welcome />
             </div>
         )
     }

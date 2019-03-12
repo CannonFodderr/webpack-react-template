@@ -1,0 +1,10 @@
+.title{
+    text-align: center;
+}
+
+.banner{
+    width: 50vw;
+    height: auto;
+    display: block;
+    margin: auto;
+}
